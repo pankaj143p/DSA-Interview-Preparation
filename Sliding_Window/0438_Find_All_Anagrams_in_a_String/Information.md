@@ -25,8 +25,9 @@ For every character in `s`:
 
 ## Sliding Window
 
-For:
+## Complexity
 
-```text
-s = "cbaebabacd"
-p = "abc"
+- Time: O(n)
+- Space: O(1)
+
+The frequency arrays contain only 26 lowercase English characters.
